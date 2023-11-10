@@ -1,2 +1,6 @@
-package homeTaskGit;public class Animal {
+package homeTaskGit;
+
+public class Animal {
+    String name;
+    int age;
 }
