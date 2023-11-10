@@ -10,5 +10,7 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println("Неllo localGit");
+        System.out.println( "Hello remove Git!" );
+
     }
 }
