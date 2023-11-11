@@ -26,6 +26,6 @@ public class Animal {
     }
 
     public void getAnimal(){
-        
+
     }
 }
